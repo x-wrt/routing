@@ -31,7 +31,6 @@ define Package/nodogsplash
            +iptables-mod-conntrack-extra
   TITLE:=Open public network gateway daemon
   URL:=https://github.com/nodogsplash/nodogsplash
-  CONFLICTS:=opennds
 endef
 
 define Package/nodogsplash/description
